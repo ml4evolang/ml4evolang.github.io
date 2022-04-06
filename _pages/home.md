@@ -219,7 +219,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://fstrub95.github.io/">Florian Strub</a>
+      <a href="https://fstrub95.github.io/">Dr. Florian Strub</a>
       <h6>DeepMind</h6>
     </div>
   </div>
@@ -404,9 +404,8 @@ acknowledgements: ""
 </div>
 <div class="row">
     <div class="col-xs-12">
-      <p>to be announced
+      <p>to be announced</p>
             <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
-        </p>
     <ul>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
       <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
