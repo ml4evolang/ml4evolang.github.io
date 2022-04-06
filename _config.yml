@@ -1,9 +1,9 @@
-title: Visually Grounded Interaction and Language (ViGIL) 4.0
-description: Visually Grounded Interaction and Language (ViGIL) 4.0 Workshop
+title: Machine Learning and the Evolution of Language (ML4EvoLang)
+description: Building a bridge between communities
   ---
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
-ga_id: UA-144588579-1
+# ga_id: UA-144588579-1
