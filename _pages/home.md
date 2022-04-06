@@ -14,7 +14,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
     <center><h2>Sept, 2022. EvoLang Workshop, Kanazawa, Japan and Online.</h2></center>
-    <center>Co-located with <a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">EvoLang 2022</a></center>
+    <!-- TODO: add exact date here -->
+    <center>Co-located with <a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">EvoLang, September 5th - 8th, 2022</a></center>
     <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
   </div>
 </div>
@@ -40,7 +41,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <i>Coming soon...</i>
+  <p><i>Coming soon...</i></p>
   <!-- <div class="col-xs-12"> -->
   <!--   <table class="table table-striped" id="schedule-table"> -->
   <!--   <tbody> -->
@@ -404,7 +405,7 @@ acknowledgements: ""
 </div>
 <div class="row">
     <div class="col-xs-12">
-      <p>Coming soon...</p>
+    <p><i>Coming soon...</i></p>
             <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
     <ul>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
@@ -416,12 +417,12 @@ acknowledgements: ""
 
 <hr />
 <!-- Intro -->
-<div class="row" id="intro">
-    <div class="col-xs-12">
-        <h2>Introduction</h2>
-        <p><i>Coming soon...</i></p>
-    </div>
-</div>
+<!-- <div class="row" id="intro"> -->
+<!--     <div class="col-xs-12"> -->
+<!--         <h2>Introduction</h2> -->
+<!--         <p><i>Coming soon...</i></p> -->
+<!--     </div> -->
+<!-- </div> -->
 
 <!-- <hr /> -->
 
