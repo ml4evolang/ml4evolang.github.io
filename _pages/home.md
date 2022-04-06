@@ -166,8 +166,11 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://rahmacha.github.io/">Rahma Chaabouni</a>
-      <h6>fillme</h6>
+      <h6>DeepMind</h6>
     </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <i>More coming soon.</i>
   </div>
 </div>
 
