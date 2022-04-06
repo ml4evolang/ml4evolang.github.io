@@ -13,8 +13,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
-    <center><h2>Sept XX, 2022. EvoLang Workshop, Kanazawa, Japan and Online.</h2></center>
-    <center>Co-located with<a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">EvoLang 2022</a></center>
+    <center><h2>Sept, 2022. EvoLang Workshop, Kanazawa, Japan and Online.</h2></center>
+    <center>Co-located with <a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">EvoLang 2022</a></center>
     <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
   </div>
 </div>
@@ -161,7 +161,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://rahmacha.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/rahma-chaabouni.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/rahma-chaabouni.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://rahmacha.github.io/">Rahma Chaabouni</a>
@@ -170,22 +170,22 @@ acknowledgements: ""
   </div>
 </div>
 
-<hr />
+<!-- <hr /> -->
 
-<div class="row" id="accepted">
-  <div class="col-xs-12">
-    <h2>Accepted Posters</h2>
-    <!-- <p>Note: 3 additional papers were accepted but are not listed here because of an anonymity period.</p> -->
-    <p>to be announced</p>
-  </div>
-</div>
-<ul class="paper-list">
-    <!-- <li> -->
-    <!--     <span class="paper-title">Do Videos Guide Translations?  Evaluation of a Video-Guided Machine Translation dataset</span><br> -->
-    <!--     <span class="paper-authors">Zhishen Yang (Tokyo Institute of Technology); Tosho  Hirasawa (Tokyo Metropolitan University); Naoaki Okazaki (Tokyo Institute of Technology); Mamoru Komachi (Tokyo Metropolitan University)</span><br> -->
-    <!--     <span class="paper-meta">[<a href="static/papers-2021/29.pdf">PDF</a>]</span> -->
-    <!-- </li> -->
-</ul>
+<!-- <div class="row" id="accepted"> -->
+<!--   <div class="col-xs-12"> -->
+<!--     <h2>Accepted Posters</h2> -->
+<!--     <!-1- <p>Note: 3 additional papers were accepted but are not listed here because of an anonymity period.</p> -1-> -->
+<!--     <p>to be announced</p> -->
+<!--   </div> -->
+<!-- </div> -->
+<!-- <ul class="paper-list"> -->
+<!--     <!-1- <li> -1-> -->
+<!--     <!-1-     <span class="paper-title">Do Videos Guide Translations?  Evaluation of a Video-Guided Machine Translation dataset</span><br> -1-> -->
+<!--     <!-1-     <span class="paper-authors">Zhishen Yang (Tokyo Institute of Technology); Tosho  Hirasawa (Tokyo Metropolitan University); Naoaki Okazaki (Tokyo Institute of Technology); Mamoru Komachi (Tokyo Metropolitan University)</span><br> -1-> -->
+<!--     <!-1-     <span class="paper-meta">[<a href="static/papers-2021/29.pdf">PDF</a>]</span> -1-> -->
+<!--     <!-1- </li> -1-> -->
+<!-- </ul> -->
 
 <hr />
 
@@ -224,11 +224,11 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <!-- <a href="https://fstrub95.github.io/"> -->
-    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
-    <!-- </a> -->
+    <a href="http://www.lifl.fr/~pietquin/">
+      <img class="people-pic" src="{{ "/static/img/people/olivier-pietquin-dp.jpg" | prepend:site.baseurl }}">
+    </a>
     <div class="people-name">
-      Prof. Emmanuel Dupoux
+      <a href="http://www.lifl.fr/~pietquin/">Prof. Olivier Pietquin</a>
       <h6>Google Brain</h6>
     </div>
   </div>
@@ -237,14 +237,14 @@ acknowledgements: ""
     <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
     <!-- </a> -->
     <div class="people-name">
-      Prof. Emmanuel Dupoux
+      <a href="http://www.lscp.net/persons/dupoux/">Prof. Emmanuel Dupoux</a>
       <h6>EHESS / Meta AI Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <!-- <a href="https://www.limorravivevolang.com/"> -->
-    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
-    <!-- </a> -->
+    <a href="https://www.limorravivevolang.com/">
+      <img class="people-pic" src="{{ "/static/img/people/Limor-Raviv.jpg" | prepend:site.baseurl }}">
+    </a>
     <div class="people-name">
       <a href="https://www.limorravivevolang.com/">Dr. Limor Raviv</a>
       <h6>MPI for Psycholinguistics</h6>
@@ -255,7 +255,7 @@ acknowledgements: ""
     <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
     <!-- </a> -->
     <div class="people-name">
-      Prof. Bart de Boer
+      <a href="https://ai.vub.ac.be/team/bart-de-boer/">Prof. Bart de Boer</a>
       <h6>AI Lab, Vrije Universiteit Brussel</h6>
     </div>
   </div>
@@ -379,17 +379,18 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p>
-      The authors are welcome to submit an abstract based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics:
-    </p>
-    <p>
-          <ul>
-            <li>emergent communication with deep neural networks</li>
-            <li>Bayesian agent-based modeling for language evolution</li>
-            <li>other NLP/ML methods for understanding language evolution</li>
-          </ul>
-      </p>
-      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p>
+    <p><i>Coming soon...</i></p>
+    <!-- <p> -->
+    <!--   The authors are welcome to submit an abstract based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics: -->
+    <!-- </p> -->
+    <!-- <p> -->
+    <!--       <ul> -->
+    <!--         <li>emergent communication with deep neural networks</li> -->
+    <!--         <li>Bayesian agent-based modeling for language evolution</li> -->
+    <!--         <li>other NLP/ML methods for understanding language evolution</li> -->
+    <!--       </ul> -->
+    <!--   </p> -->
+    <!--   <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p> -->
   </div>
 </div>
 
@@ -421,7 +422,7 @@ acknowledgements: ""
 <div class="row" id="intro">
     <div class="col-xs-12">
         <h2>Introduction</h2>
-        brief intro / description will appear here
+        <p><i>Coming soon...</i></p>
     </div>
 </div>
 
