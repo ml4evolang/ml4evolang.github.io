@@ -160,7 +160,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://rahmacha.github.io/">
-      <img class="people-pic" src="{{ https://rahmacha.github.io/images/profile.png }}">
+      <img class="people-pic" src="{{ "/static/img/people/rahma-chaabouni.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://rahmacha.github.io/">Rahma Chaabouni</a>
