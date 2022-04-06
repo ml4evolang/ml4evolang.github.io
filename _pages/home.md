@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Machine Learning and the Evolution of Language (ML4EvoLang)"
 title: "Machine Learning and the Evolution of Language (ML4EvoLang)"
-categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, naacl, 2021
+categories: workshop, emergent communication, language evolution, natural language, machine learning, computational modeling, ml4evolang, evolang, 2022
 permalink: /
 bibtex: true
 paper: true
