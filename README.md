@@ -1,4 +1,5 @@
-# vigilworkshop.github.io
-Webpage source files for ViGIL 3.0 workshop at NeurIPS 2019
+# ml42volang.github.io
 
-https://vigilworkshop.github.io/
+Webpage source files for the [ML4EvoLang workshop](https://ml4evolang.github.io/).
+
+Repository forked from [vigil workshop](https://github.com/vigilworkshop/vigilworkshop.github.io).
