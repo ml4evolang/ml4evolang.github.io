@@ -233,9 +233,9 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <!-- <a href="https://fstrub95.github.io/"> -->
-    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
-    <!-- </a> -->
+    <a href="http://www.lscp.net/persons/dupoux/">
+      <img class="people-pic" src="{{ "/static/img/people/emmanuel-dupoux.jpg" | prepend:site.baseurl }}">
+    </a>
     <div class="people-name">
       <a href="http://www.lscp.net/persons/dupoux/">Prof. Emmanuel Dupoux</a>
       <h6>EHESS / Meta AI Research</h6>
@@ -251,9 +251,9 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <!-- <a href="https://fstrub95.github.io/"> -->
-    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
-    <!-- </a> -->
+    <a href="https://ai.vub.ac.be/team/bart-de-boer/">
+      <img class="people-pic" src="{{ "/static/img/people/bart-de-boer.jpg" | prepend:site.baseurl }}">
+    </a>
     <div class="people-name">
       <a href="https://ai.vub.ac.be/team/bart-de-boer/">Prof. Bart de Boer</a>
       <h6>AI Lab, Vrije Universiteit Brussel</h6>
