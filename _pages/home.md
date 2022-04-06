@@ -132,19 +132,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><del>March 19, 2021</del></td>
+          <td>to be announced</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
-          <td><del>April 15, 2021</del></td>
+          <td>to be announced</td>
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
-          <td><b>May 15, 2021 (11:59 PM Pacific time)</b></td>
+          <td>May 15, 2021 (11:59 PM Pacific time)</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>June 10, 2021</td>
+          <td>Between 5th and 8th of September, 2022</td>
         </tr>
       </tbody>
     </table>
@@ -159,75 +159,12 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://homes.cs.washington.edu/~yejin/">
-      <img class="people-pic" src="{{ "/static/img/people/yejin-choi.jpg" | prepend:site.baseurl }}">
+    <a href="https://rahmacha.github.io/">
+      <img class="people-pic" src="{{ https://rahmacha.github.io/images/profile.png }}">
     </a>
     <div class="people-name">
-      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
-      <h6>University of Washington</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://people.eecs.berkeley.edu/~trevor/">
-      <img class="people-pic" src="{{ "/static/img/people/darrell.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
-      <h6>Berkeley</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.cmu.edu/~katef/">
-      <img class="people-pic" src="{{ "/static/img/people/katerina-fragkiadaki.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a>
-      <h6>CMU</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.gold.ac.uk/computing/people/garagnani-max/">
-      <img class="people-pic" src="{{ "/static/img/people/max-garagnani.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.gold.ac.uk/computing/people/garagnani-max/">Max Garagnani</a>
-      <h6>Goldsmiths, University of London</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://web.eecs.umich.edu/~justincj/">
-      <img class="people-pic" src="{{ "/static/img/people/justin-johnson.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a>
-      <h6>University of Michigan</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.mit.edu/~rplevy/">
-      <img class="people-pic" src="{{ "/static/img/people/roger-levy.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.mit.edu/~rplevy/">Roger Levy</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://cs.brown.edu/people/stellex/">
-      <img class="people-pic" src="{{ "/static/img/people/stefanie-tellex.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://cs.brown.edu/people/stellex/">Stephanie Tellex</a>
-      <h6>Brown University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://childdevelopment.northwestern.edu/">
-      <img class="people-pic" src="{{ "/static/img/people/sandra-waxman.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://childdevelopment.northwestern.edu/">Sandra Waxman</a>
-      <h6>Northwestern University</h6>
+      <a href="https://rahmacha.github.io/">Rahma Chaabouni</a>
+      <h6>fillme</h6>
     </div>
   </div>
 </div>
@@ -236,131 +173,16 @@ acknowledgements: ""
 
 <div class="row" id="accepted">
   <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-    <p>Note: 3 additional papers were accepted but are not listed here because of an anonymity period.</p>
+    <h2>Accepted Posters (t.b.a.)</h2>
+    <!-- <p>Note: 3 additional papers were accepted but are not listed here because of an anonymity period.</p> -->
   </div>
 </div>
 <ul class="paper-list">
-    <li>
-        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> Emergent Communication of Generalizations</span><br>
-        <span class="paper-authors">Jesse Mu (Stanford University); Noah   Goodman (Stanford University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/7.pdf">PDF</a>] [<a href="static/papers-2021/7_supp.pdf">Supp</a>] [<a href="https://www.youtube.com/watch?v=I1UXGmz3rUk" target="_blank">Spotlight Video</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents</span><br>
-        <span class="paper-authors">Rémy Portelas (Inria Bordeaux); Grgur Kovač (INRIA, Flowers team); Katja Hofmann (Microsoft Research); Pierre-Yves Oudeyer (Inria)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/20.pdf">PDF</a>] [<a href="static/papers-2021/20.mp4" target="_blank">Spotlight Video</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title"><span style="color:#DD3333;font-weight:700">[Spotlight]</span> Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments</span><br>
-        <span class="paper-authors">Andrea Burns (Boston University); Deniz Arsan (University of Illinois at Urbana Champaign); Sanjna Agrawal (Boston University); Ranjitha Kumar (UIUC: CS); Kate Saenko (Boston University); Bryan Plummer (Boston University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/26.pdf">PDF</a>] [<a href="static/papers-2021/26.mp4" target="_blank">Spotlight Video</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Curriculum Learning for Vision-Grounded Instruction Following</span><br>
-        <span class="paper-authors">Guan-Lin Chao (Carnegie Mellon University); Ian Lane (Carnegie Mellon University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/3.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">RefineCap: Concept-Aware Refinement for Image Captioning</span><br>
-        <span class="paper-authors">Yekun Chai (Institute of Automation, Chinese Academy of Sciences); Shuo Jin (University of Pittsburgh); Junliang Xing (Institute of Automation, Chinese Academy of Sciences)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/4.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Image Translation Model</span><br>
-        <span class="paper-authors">Puneet Jain (Google); Orhan Firat (Google ); Qi Ge (Google); Sihang Liang (Princeton University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/5.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">EVOQUER: Enhancing Temporal Grounding with Video-Pivoted Back Query Generation</span><br>
-        <span class="paper-authors">Yanjun Gao (Penn State University NLP Lab); Lulu Liu (Penn State University); Jason Wang (Penn State University); Xin Chen (Kuaishou Technology); Huayan Wang (Kuaishou Technology); Rui Zhang (Penn State University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/6.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">“Yes” and “No”: Visually Grounded Polar Answers</span><br>
-        <span class="paper-authors">Claudio  Greco (University of Trento); Alberto Testoni (University of Trento); Raffaella Bernardi (University of Trento)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/8.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator</span><br>
-        <span class="paper-authors">Ayush Shrivastava (Georgia Institute of Technology); Karthik Gopalakrishnan (Amazon Alexa AI); Yang Liu (Amazon Alexa AI); Robinson Piramuthu (Amazon Alexa AI); Gokhan Tur; Devi Parikh (Georgia Tech & Facebook AI Research); Dilek Hakkani-Tur (Amazon Alexa AI)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/9.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Interactive Learning from Activity Description</span><br>
-        <span class="paper-authors">Khanh X Nguyen (University of Maryland); Dipendra Misra (Microsoft); Robert Schapire (Microsoft); Miroslav Dudik (Microsoft); Patrick Shafto (Rutgers University-Newark)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/10.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Language-Conditional Imitation Learning</span><br>
-        <span class="paper-authors">Julian Skirzynski (University of California, San Diego), Bobak Baghi (McGill University), David Meger (McGill University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/11.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Learning a natural-language to LTL executable semantic parser for grounded robotics</span><br>
-        <span class="paper-authors">Christopher Wang (MIT); Candace Ross (Massachusetts Institute of Technology); Yen-Ling Kuo (MIT); Boris Katz (MIT); Andrei Barbu (MIT)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/12.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Zero-Shot Generalization using Intrinsically Motivated Compositional Emergent Protocols</span><br>
-        <span class="paper-authors">Rishi Hazra (IISc Bangalore); Sonu Dixit (Indian Institue of Science); Sayambhu Sen (IISc, Bangalore)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/13.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Pose-Guided Sign Language Video GAN with Dynamic Lambda</span><br>
-        <span class="paper-authors">Christopher Kissel (Beuth University of Applied Sciences Berlin); Christopher Kümmel (Beuth University of Applied Sciences Berlin); Dennis Ritter (Beuth University of Applied Sciences Berlin); Kristian Hildebrand (Beuth University of Applied Sciences Berlin)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/14.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Extracting Phone Numbers from Adversarial & Visually Corrupted Text</span><br>
-        <span class="paper-authors">Timothy Forman (United States Naval Academy); Nathanael Chambers (United States Naval Academy)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/15.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">gComm: An environment for investigating generalization in grounded language acquisition</span><br>
-        <span class="paper-authors">Rishi Hazra (IISc Bangalore); Sonu Dixit (Indian Institue of Science)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/16.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Locate then Segment: A Strong Pipeline for Referring Image Segmentation</span><br>
-        <span class="paper-authors">Ya Jing (Institute of Automation, Chinese Academy of Sciences); Tao Kong (Bytedance); Wei Wang (Institute of Automation Chinese Academy of Sciences); Liang Wang (NLPR, China); Lei Li (ByteDance AI Lab); Tieniu Tan (NLPR, China)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/18.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Towards Multi-Modal Text-Image Retrieval to improve Human Reading</span><br>
-        <span class="paper-authors">Florian Schneider (University of Hamburg); Ozge Alacam (University of Hamburg); Xintong Wang (University of Hamburg); Chris Biemann (University of Hamburg)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/19.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Attend, tell and ground: Weakly-supervised Object Grounding with Attention-based Conditional Variational Autoencoders</span><br>
-        <span class="paper-authors">Effrosyni Mavroudi (Johns Hopkins University); Rene Vidal (Johns Hopkins University, USA)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/21.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Referring to the recently seen: reference and perceptual memory in situated dialog</span><br>
-        <span class="paper-authors">John Kelleher (Technological University Dublin); Simon Dobnik (University of Gothenburg); John D Kelleher (Technological University Dublin)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/22.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">How Important are Visual Features for Visual Grounding? It Depends.</span><br>
-        <span class="paper-authors">Fan Yang (Amazon); Prashan Wanigasekara (Amazon); Mingda Li (Amazon); Chengwei  Su (Amazon); Emre Barut (Amazon)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/24.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Leveraging Language for Abstraction and Program Search</span><br>
-        <span class="paper-authors">Catherine Wong (Massachusetts Institute of Technology); Kevin M Ellis (MIT); Jacob Andreas (MIT); Joshua Tenenbaum (MIT)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/25.pdf">PDF</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">SynthRef: Generation of Synthetic Referring Expressions for Object Segmentation</span><br>
-        <span class="paper-authors">Ioannis Kazakos (National Technical University of Athens); Carles Ventura (Universitat Oberta de Catalunya); Miriam Bellver (Barcelona Supercomputing Center); Carina Silberer (Institute for Natural Language Processing, University of Stuttgart); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/27.pdf">PDF</a>] [<a href="static/papers-2021/27_supp.pdf">Supp</a>]</span>
-    </li>
-    <li>
-        <span class="paper-title">Do Videos Guide Translations?  Evaluation of a Video-Guided Machine Translation dataset</span><br>
-        <span class="paper-authors">Zhishen Yang (Tokyo Institute of Technology); Tosho  Hirasawa (Tokyo Metropolitan University); Naoaki Okazaki (Tokyo Institute of Technology); Mamoru Komachi (Tokyo Metropolitan University)</span><br>
-        <span class="paper-meta">[<a href="static/papers-2021/29.pdf">PDF</a>]</span>
-    </li>
+    <!-- <li> -->
+    <!--     <span class="paper-title">Do Videos Guide Translations?  Evaluation of a Video-Guided Machine Translation dataset</span><br> -->
+    <!--     <span class="paper-authors">Zhishen Yang (Tokyo Institute of Technology); Tosho  Hirasawa (Tokyo Metropolitan University); Naoaki Okazaki (Tokyo Institute of Technology); Mamoru Komachi (Tokyo Metropolitan University)</span><br> -->
+    <!--     <span class="paper-meta">[<a href="static/papers-2021/29.pdf">PDF</a>]</span> -->
+    <!-- </li> -->
 </ul>
 
 <hr />
@@ -373,57 +195,21 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://catalinacangea.netlify.app/">
-      <img class="people-pic" src="{{ "/static/img/people/catalinacangea.jpg" | prepend:site.baseurl }}">
+    <a href="https://scholar.google.fr/citations?user=4VwTolgAAAAJ&hl=fr&oi=ao">
+      <img class="people-pic" src="{{ "/static/img/people/mathieu-rita.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://catalinacangea.netlify.app/">Cătălina Cangea</a>
-      <h6>University of Cambridge</h6>
+      <a href="https://scholar.google.fr/citations?user=4VwTolgAAAAJ&hl=fr&oi=ao">Mathieu Rita</a>
+      <h6>INRIA</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://abhishekdas.com">
-      <img class="people-pic" src="{{ "/static/img/people/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
+    <a href="https://lgalke.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/Lukas-Galke.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://abhishekdas.com">Abhishek Das</a>
-      <h6>Facebook AI Research</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.linkedin.com/in/drew-a-hudson">
-      <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
-      <h6>Stanford</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://jacobkrantz.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/jacobkrantz.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://jacobkrantz.github.io/">Jacob Krantz</a>
-      <h6>Oregon State University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cc.gatech.edu/~slee3191/">
-      <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
-      <h6>Oregon State University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://jiayuanm.com/">
-      <img class="people-pic" src="{{ "/static/img/people/jiayuanmao.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://jiayuanm.com/">Jiayuan Mao</a>
-      <h6>MIT</h6>
+      <a href="https://lgalke.github.io">Lukas Galke</a>
+      <h6>MPI for Psycholinguistics</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -436,21 +222,39 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="http://alanesuhr.com/">
-      <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
-    </a>
+    <!-- <a href="https://fstrub95.github.io/"> -->
+    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
+    <!-- </a> -->
     <div class="people-name">
-      <a href="http://alanesuhr.com/">Alane Suhr</a>
-      <h6>Cornell</h6>
+      Prof. Emmanuel Dupoux
+      <h6>Google Brain</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="http://wijmans.xyz/">
-      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
-    </a>
+    <!-- <a href="https://fstrub95.github.io/"> -->
+    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
+    <!-- </a> -->
     <div class="people-name">
-      <a href="http://wijmans.xyz/">Erik Wijmans</a>
-      <h6>Georgia Tech</h6>
+      Prof. Emmanuel Dupoux
+      <h6>EHESS / Meta AI Research</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <!-- <a href="https://www.limorravivevolang.com/"> -->
+    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
+    <!-- </a> -->
+    <div class="people-name">
+      <a href="https://www.limorravivevolang.com/">Dr. Limor Raviv</a>
+      <h6>MPI for Psycholinguistics</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <!-- <a href="https://fstrub95.github.io/"> -->
+    <!--   <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}"> -->
+    <!-- </a> -->
+    <div class="people-name">
+      Prof. Bart de Boer
+      <h6>AI Lab, Vrije Universiteit Brussel</h6>
     </div>
   </div>
 </div>
