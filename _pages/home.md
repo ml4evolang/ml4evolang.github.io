@@ -41,7 +41,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <p><i>Coming soon...</i></p>
+  <p><i>TBA</i></p>
   <!-- <div class="col-xs-12"> -->
   <!--   <table class="table table-striped" id="schedule-table"> -->
   <!--   <tbody> -->
@@ -170,7 +170,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <i>More coming soon.</i>
+    <p><i>TBA</i></p>
   </div>
 </div>
 
@@ -383,7 +383,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p><i>Coming soon...</i></p>
+    <p><i>TBA</i></p>
     <!-- <p> -->
     <!--   The authors are welcome to submit an abstract based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics: -->
     <!-- </p> -->
@@ -408,7 +408,7 @@ acknowledgements: ""
 </div>
 <div class="row">
     <div class="col-xs-12">
-    <p><i>Coming soon...</i></p>
+    <p><i>TBA</i></p>
             <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
     <ul>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
