@@ -200,7 +200,13 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <p><i>more tba</i></p>
+    <a href="https://douwekiela.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/douwe-kiela.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://douwekiela.github.io/">Douwe Kiela</a>
+      <h6>Huggingface</h6>
+    </div>
   </div>
 </div>
 
@@ -414,17 +420,17 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p><i>tba</i></p>
-    <!-- <p> -->
-    <!--   The authors are welcome to submit an abstract based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics: -->
-    <!-- </p> -->
-    <!-- <p> -->
-    <!--       <ul> -->
-    <!--         <li>emergent communication with deep neural networks</li> -->
-    <!--         <li>Bayesian agent-based modeling for language evolution</li> -->
-    <!--         <li>other NLP/ML methods for understanding language evolution</li> -->
-    <!--       </ul> -->
-    <!--   </p> -->
-    <!--   <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. Accepted papers will be presented during joint poster sessions, with exceptional submissions selected for spotlight oral presentations. Accepted papers will be made publicly available as <i>*non-archival*</i> reports, allowing future submissions to archival conferences or journals. </p> -->
+    <p>
+      The authors are welcome to submit an abstract of up to 300 words on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop:
+    </p>
+    <p>
+          <ul>
+            <li>Machine learning methods for understanding language evolution</li>
+            <li>Emergent communication with reinforcement learning</li>
+            <li>Bayesian agent-based modeling for language evolution</li>
+          </ul>
+      </p>
+      <p>Accepted submissions will be presented as a poster in the workshop.</p>
   </div>
 </div>
 
@@ -438,7 +444,7 @@ acknowledgements: ""
 </div>
 <div class="row">
     <div class="col-xs-12">
-    <p><i>tba</i></p>
+    <p><i>Submission details will appear here soon.</i></p>
             <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
     <ul>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
