@@ -170,6 +170,24 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
+    <a href="https://ai.vub.ac.be/team/katie-mudd/">
+      <img class="people-pic" src="{{ "/static/img/people/katie-mudd.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://ai.vub.ac.be/team/katie-mudd/">Katie Mudd</a>
+      <h6>AI Lab, Vrije Universiteit Brussel</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://sites.google.com/site/matspike/">
+      <img class="people-pic" src="{{ "/static/img/people/matt-spike.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://sites.google.com/site/matspike/">Matt Spike</a>
+      <h6>University of Edinburgh</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <p><i>more tba</i></p>
   </div>
 </div>
@@ -483,3 +501,5 @@ acknowledgements: ""
 <!--     </ol> -->
 <!--   </div> -->
 <!-- </div> -->
+
+<!-- vim: set ft=html -->
