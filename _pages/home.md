@@ -419,7 +419,6 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p><i>tba</i></p>
     <p>
       The authors are welcome to submit an abstract of up to 300 words on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop:
     </p>
