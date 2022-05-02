@@ -34,89 +34,101 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Preliminary Schedule</h2>
   </div>
   <div class="col-md-8 col-xs-12">
       <select id="timezone-select" class="form-control"></select>
   </div>
 </div>
 <div class="row">
-  <p><i>tba</i></p>
-  <!-- <div class="col-xs-12"> -->
-  <!--   <table class="table table-striped" id="schedule-table"> -->
-  <!--   <tbody> -->
-  <!--   <tr> <th scope="row" data-time="08:50">08:50 AM</th> <td>Opening Remarks</td></tr> -->
-  <!--   <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td> -->
-  <!--     Talk 1: Roger Levy<br />Semantics, Pragmatics, and Context in Human Grounded Language Understanding -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
-  <!--     <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
-  <!--     <div class="collapse" id="schedule-talk1"> -->
-  <!--       Abstract: Computational systems for grounded language understanding have seen impressive advances over the last decade, due largely to advances in multimodal datasets, neural and symbolic modeling techniques, and computational power. But human meaning interpretation in grounded contexts remains far deeper and more sophisticated. In this talk I describe several recent studies in our research group that illustrate the subtlety and richness of human meaning interpretation using very simple, experimentally controlled utterances and visual grounding contexts. These studies shed light on the compositional structure of the semantic representations underlying human language comprehension, their relationship with the pragmatic inference mechanisms that support contextually conditioned interpretation, and the likely requirements for truly human-like language understanding in artificial systems. -->
-  <!--     </div> -->
-  <!--   </td></tr> -->
-  <!--   <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td> -->
-  <!--     Talk 2: Stefanie Tellex<br />Towards Complex Language in Partially Observed Environments -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
-  <!--     <div class="collapse" id="schedule-talk2"> -->
-  <!--       Abstract: Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. Existing approaches use action-based representations that do not capture the goal-based meaning of a language expression and do not generalize to partially observed environments.  The aim of my research program is to create autonomous robots that can understand complex goal-based commands and execute those commands in partially observed, dynamic environments.  I will describe demonstrations of object-search in a POMDP setting with information about object locations provided by language, and mapping between English and Linear Temporal Logic, enabling a robot to understand complex natural language commands in city-scale environments.  These advances represent steps towards robots that interpret complex natural language commands in partially observed environments using a decision theoretic framework. -->
-  <!--     </div> -->
-  <!--   </td></tr> -->
-  <!--   <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr> -->
-  <!--   <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td> -->
-  <!--     Talk 3: Katerina Fragkiadaki<br />Linking Language with World Common Sense Using 3D Visual Feature Representations -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a> -->
-  <!--     <div class="collapse" id="schedule-talk3"> -->
-  <!--       Abstract: To link language processing with spatial reasoning, we propose associating natural language utterances to a mental workspace of their meaning, encoded as 3-dimensional visual feature representations of the world scenes they describe. We learn such 3-dimensional visual representations---we call them visual imaginations--- by predicting images a mobile agent sees while moving around in the 3D world. The input image streams the agent collects are unprojected into egomotion-stable 3D scene feature maps of the scene, and projected from novel viewpoints to match the observed RGB image views in an end-to-end differentiable manner. We then train modular neural models to generate such 3D feature representations given language utterances, to localize the objects an utterance mentions in the 3D feature representation inferred from an image, and to predict the desired 3D object locations given a manipulation instruction. We empirically show the proposed models outperform by a large margin existing 2D models in spatial reasoning, referential object detection and instruction following, and generalize better across camera viewpoints and object arrangements. -->
-  <!--     </div> -->
-  <!--   </td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td> -->
-  <!--     Talk 4: Max Garagnani<br />Action-Perception Circuits for Word Learning and Semantic Grounding -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a> -->
-  <!--     <div class="collapse" id="schedule-talk4"> -->
-  <!--       Abstract: Embodied semantic theories posit that word meaning is grounded in the perception and action systems of the human brain. Such theories are supported by a growing body of experimental results, indicating that processing of words belonging to specific semantic categories (e.g., visual object or motor action related, e.g. “sun” or “run”) leads to selective activation of corresponding modality-preferential areas.<br /> -->
-  <!--       I highlight a deep, spiking neurocomputational architecture of the left-hemispheric fronto-temporal areas that has been used to simulate and explain putative brain processes underlying word learning and semantic grounding in action and perception. The model closely replicates neuroanatomical and neurobiological features of the relevant brain regions and implements exclusively mechanisms mimicking known cellular- and synaptic-level features of the mammalian cortex. Lastly I discuss some recent experimental evidence confirming the model’s main predictions and conclude by suggesting elements of a unifying theory for the emergence of cognition based on the spontaneous formation of cortically distributed action-perception circuits (APCs) in the brain. -->
-  <!--     </div> -->
-  <!--   </td></tr> -->
-  <!--   <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr> -->
-  <!--   <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td> -->
-  <!--     Talk 5: Yejin Choi<br />Grounded Causal Commonsense Reasoning -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a> -->
-  <!--     <a target="_blank" href="/static/slides-2021/yejin_choi.pdf">[Slides]</a> -->
-  <!--     <div class="collapse" id="schedule-talk5"> -->
-  <!--       Abstract: In this talk, we will consider Harnad’s symbol grounding problem from three different angles: learning the functional meaning of objects and actions through interactions in a 3D environment, learning the grounded meaning of more complex language by watching YouTube videos at extreme scale, and learning causal commonsense inferences of the visual scenes through a large-scale symbolic knowledge graph. -->
-  <!--     </div> -->
-  <!--   </td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td> -->
-  <!--     Talk 6: Justin Johnson<br />Learning Visual Representations from Language -->
-  <!--     <a data-toggle="collapse" href="#schedule-6" aria-cexpanded="false" aria-controls="schedule-6">[Abstract]</a> -->
-  <!--     <div class="collapse" id="schedule-6"> -->
-  <!--       Abstract: Standard practice in vision+language is to treat multimodal vision+language tasks as downstream from vision: generic unimodal representations are combined for multimodal end tasks. In this talk I'll argue that this should be flipped: multimodal vision+language tasks should be used to learn powerful representations that can be transferred to downstream visual representation tasks. Our approach, termed VirTex, uses image captioning as a pretext task for learning visual features. When trained on COCO captions, VirTex learns representations that match or exceed supervised ImageNet pretraining on many downstream visual recognition tasks. I will also discuss our efforts to scale up this algorithm, for which we've created a new dataset of 11.7M high-quality images and natural-language captions. -->
-  <!--     </div> -->
-  <!--   </td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="17:30">17:30 PM</th> <td>Break</td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td> -->
-  <!--     Talk 7: Trevor Darrell (presented by Daniel Fried and Rudy Corona)<br />Modularity in Grounded Interaction -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a> -->
-  <!--     <a target="_blank" href="/static/slides-2021/fried_corona.pdf">[Slides]</a> -->
-  <!--     <div class="collapse" id="schedule-talk7"> -->
-  <!--       Abstract: Neural networks have made great strides in language grounding, but still leave room for improvement in robustness, ease of design, and interpretability. Modularity, a staple of complex system design, has the potential to help on all of these. We find that modular neural nets outperform their non-modular counterparts on a grounded collaborative dialogue task and in compositional generalization settings for embodied instruction following. -->
-  <!--     </div> -->
-  <!--   </td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td> -->
-  <!--     Talk 8: Sandra Waxman<br />How (and how early) do infants link language and cognition? -->
-  <!--     <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a> -->
-  <!--     <div class="collapse" id="schedule-talk8"> -->
-  <!--       Abstract: Language is a signature of our species. It is the pathway through which we share the contents of our minds, imagine new ideas and ignite them in others. But how, and how early, do infants link language and thought?  How do they identify which signals are part of their language and discover how these are linked to fundamental representations of objects and events? Infants begin to forge this language-cognition interface in the first months of life. Even before they say their first words, listening to human language promotes core cognitive capacities, including object categorization and rule-learning. Moreover, this precocious link emerges from a broader template that initially includes vocalizations of non-human primates, but is rapidly tuned specifically to human vocalizations. I’ll describe an exquisitely timed developmental cascade, fueled by both ‘nature’ and ‘nurture’, leading infants to discover increasingly precise links between language and cognition, and use this link to learn about their world. -->
-  <!--     </div> -->
-  <!--   </td> </tr> -->
-  <!--   <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr> -->
-  <!--   </tbody> -->
-  <!--   </table> -->
-  <!-- </div> -->
+  <div class="col-xs-12">
+    <table class="table table-striped" id="schedule-table">
+    <tbody>
+    <tr> <th scope="row" data-time="08:00">t.b.d. </th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
+    <tr> <th scope="row" data-time="08:10">t.b.d. + 10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
+    <tr> <th scope="row" data-time="08:40">t.b.d. + 40</th> <td>Invited Talk 1: Matt Spike</td></tr>
+    <tr> <th scope="row" data-time="09:00">t.b.d. + 60</th> <td>Invited Talk 2: Katie Mudd</td></tr>
+    <tr> <th scope="row" data-time="09:20">t.b.d. + 80</th> <td>Poster session</td></tr>
+    <tr> <th scope="row" data-time="09:40">t.b.d. + 100</th> <td>Break</td></tr>
+    <tr> <th scope="row" data-time="10:00">t.b.d. + 120</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
+    <tr> <th scope="row" data-time="10:25">t.b.d. + 145</th> <td>Invited Talk 4: Douwe Kiela</td></tr>
+    <tr> <th scope="row" data-time="10:50">t.b.d. + 170</th> <td>Lessons from the past (Bart de Boer)</td></tr>
+    <tr> <th scope="row" data-time="11:05">t.b.d. + 185</th> <td>Identifying some gaps (Lukas Galke)</td></tr>
+    <tr> <th scope="row" data-time="11:20">t.b.d. + 200</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
+    <tr> <th scope="row" data-time="11:55">t.b.d. + 215</th> <td>Final remarks (Mathieu Rita)</td></tr>
+
+
+    <!-- <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td> -->
+    <!--   Talk 1: Roger Levy<br />Semantics, Pragmatics, and Context in Human Grounded Language Understanding -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a> -->
+    <!--   <a target="_blank" href="/static/slides-2021/roger_levy.pdf">[Slides]</a> -->
+    <!--   <div class="collapse" id="schedule-talk1"> -->
+    <!--     Abstract: Computational systems for grounded language understanding have seen impressive advances over the last decade, due largely to advances in multimodal datasets, neural and symbolic modeling techniques, and computational power. But human meaning interpretation in grounded contexts remains far deeper and more sophisticated. In this talk I describe several recent studies in our research group that illustrate the subtlety and richness of human meaning interpretation using very simple, experimentally controlled utterances and visual grounding contexts. These studies shed light on the compositional structure of the semantic representations underlying human language comprehension, their relationship with the pragmatic inference mechanisms that support contextually conditioned interpretation, and the likely requirements for truly human-like language understanding in artificial systems. -->
+    <!--   </div> -->
+    <!-- </td></tr> -->
+    <!-- <tr> <th scope="row" data-time="09:45">09:45 AM</th> <td> -->
+    <!--   Talk 2: Stefanie Tellex<br />Towards Complex Language in Partially Observed Environments -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a> -->
+    <!--   <div class="collapse" id="schedule-talk2"> -->
+    <!--     Abstract: Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. Existing approaches use action-based representations that do not capture the goal-based meaning of a language expression and do not generalize to partially observed environments.  The aim of my research program is to create autonomous robots that can understand complex goal-based commands and execute those commands in partially observed, dynamic environments.  I will describe demonstrations of object-search in a POMDP setting with information about object locations provided by language, and mapping between English and Linear Temporal Logic, enabling a robot to understand complex natural language commands in city-scale environments.  These advances represent steps towards robots that interpret complex natural language commands in partially observed environments using a decision theoretic framework. -->
+    <!--   </div> -->
+    <!-- </td></tr> -->
+    <!-- <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr> -->
+    <!-- <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td> -->
+    <!--   Talk 3: Katerina Fragkiadaki<br />Linking Language with World Common Sense Using 3D Visual Feature Representations -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a> -->
+    <!--   <div class="collapse" id="schedule-talk3"> -->
+    <!--     Abstract: To link language processing with spatial reasoning, we propose associating natural language utterances to a mental workspace of their meaning, encoded as 3-dimensional visual feature representations of the world scenes they describe. We learn such 3-dimensional visual representations---we call them visual imaginations--- by predicting images a mobile agent sees while moving around in the 3D world. The input image streams the agent collects are unprojected into egomotion-stable 3D scene feature maps of the scene, and projected from novel viewpoints to match the observed RGB image views in an end-to-end differentiable manner. We then train modular neural models to generate such 3D feature representations given language utterances, to localize the objects an utterance mentions in the 3D feature representation inferred from an image, and to predict the desired 3D object locations given a manipulation instruction. We empirically show the proposed models outperform by a large margin existing 2D models in spatial reasoning, referential object detection and instruction following, and generalize better across camera viewpoints and object arrangements. -->
+    <!--   </div> -->
+    <!-- </td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td> -->
+    <!--   Talk 4: Max Garagnani<br />Action-Perception Circuits for Word Learning and Semantic Grounding -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a> -->
+    <!--   <div class="collapse" id="schedule-talk4"> -->
+    <!--     Abstract: Embodied semantic theories posit that word meaning is grounded in the perception and action systems of the human brain. Such theories are supported by a growing body of experimental results, indicating that processing of words belonging to specific semantic categories (e.g., visual object or motor action related, e.g. “sun” or “run”) leads to selective activation of corresponding modality-preferential areas.<br /> -->
+    <!--     I highlight a deep, spiking neurocomputational architecture of the left-hemispheric fronto-temporal areas that has been used to simulate and explain putative brain processes underlying word learning and semantic grounding in action and perception. The model closely replicates neuroanatomical and neurobiological features of the relevant brain regions and implements exclusively mechanisms mimicking known cellular- and synaptic-level features of the mammalian cortex. Lastly I discuss some recent experimental evidence confirming the model’s main predictions and conclude by suggesting elements of a unifying theory for the emergence of cognition based on the spontaneous formation of cortically distributed action-perception circuits (APCs) in the brain. -->
+    <!--   </div> -->
+    <!-- </td></tr> -->
+    <!-- <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Break 2</td></tr> -->
+    <!-- <tr> <th scope="row" data-time="13:00">13:00 PM</th> <td>Panel Discussion</td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>Break 3</td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="14:30">14:30 PM</th> <td> -->
+    <!--   Talk 5: Yejin Choi<br />Grounded Causal Commonsense Reasoning -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a> -->
+    <!--   <a target="_blank" href="/static/slides-2021/yejin_choi.pdf">[Slides]</a> -->
+    <!--   <div class="collapse" id="schedule-talk5"> -->
+    <!--     Abstract: In this talk, we will consider Harnad’s symbol grounding problem from three different angles: learning the functional meaning of objects and actions through interactions in a 3D environment, learning the grounded meaning of more complex language by watching YouTube videos at extreme scale, and learning causal commonsense inferences of the visual scenes through a large-scale symbolic knowledge graph. -->
+    <!--   </div> -->
+    <!-- </td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td> -->
+    <!--   Talk 6: Justin Johnson<br />Learning Visual Representations from Language -->
+    <!--   <a data-toggle="collapse" href="#schedule-6" aria-cexpanded="false" aria-controls="schedule-6">[Abstract]</a> -->
+    <!--   <div class="collapse" id="schedule-6"> -->
+    <!--     Abstract: Standard practice in vision+language is to treat multimodal vision+language tasks as downstream from vision: generic unimodal representations are combined for multimodal end tasks. In this talk I'll argue that this should be flipped: multimodal vision+language tasks should be used to learn powerful representations that can be transferred to downstream visual representation tasks. Our approach, termed VirTex, uses image captioning as a pretext task for learning visual features. When trained on COCO captions, VirTex learns representations that match or exceed supervised ImageNet pretraining on many downstream visual recognition tasks. I will also discuss our efforts to scale up this algorithm, for which we've created a new dataset of 11.7M high-quality images and natural-language captions. -->
+    <!--   </div> -->
+    <!-- </td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="16:00">16:00 PM</th> <td>Spotlight Presentations</td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="16:10">16:10 PM</th> <td>Poster</td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="17:30">17:30 PM</th> <td>Break</td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="18:00">18:00 PM</th> <td> -->
+    <!--   Talk 7: Trevor Darrell (presented by Daniel Fried and Rudy Corona)<br />Modularity in Grounded Interaction -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a> -->
+    <!--   <a target="_blank" href="/static/slides-2021/fried_corona.pdf">[Slides]</a> -->
+    <!--   <div class="collapse" id="schedule-talk7"> -->
+    <!--     Abstract: Neural networks have made great strides in language grounding, but still leave room for improvement in robustness, ease of design, and interpretability. Modularity, a staple of complex system design, has the potential to help on all of these. We find that modular neural nets outperform their non-modular counterparts on a grounded collaborative dialogue task and in compositional generalization settings for embodied instruction following. -->
+    <!--   </div> -->
+    <!-- </td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="18:45">18:45 PM</th> <td> -->
+    <!--   Talk 8: Sandra Waxman<br />How (and how early) do infants link language and cognition? -->
+    <!--   <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a> -->
+    <!--   <div class="collapse" id="schedule-talk8"> -->
+    <!--     Abstract: Language is a signature of our species. It is the pathway through which we share the contents of our minds, imagine new ideas and ignite them in others. But how, and how early, do infants link language and thought?  How do they identify which signals are part of their language and discover how these are linked to fundamental representations of objects and events? Infants begin to forge this language-cognition interface in the first months of life. Even before they say their first words, listening to human language promotes core cognitive capacities, including object categorization and rule-learning. Moreover, this precocious link emerges from a broader template that initially includes vocalizations of non-human primates, but is rapidly tuned specifically to human vocalizations. I’ll describe an exquisitely timed developmental cascade, fueled by both ‘nature’ and ‘nurture’, leading infants to discover increasingly precise links between language and cognition, and use this link to learn about their world. -->
+    <!--   </div> -->
+    <!-- </td> </tr> -->
+    <!-- <tr> <th scope="row" data-time="19:30">19:30 PM</th> <td>Closing Remark</td> </tr> -->
+    </tbody>
+    </table>
+  </div>
 </div>
 
 <hr />
