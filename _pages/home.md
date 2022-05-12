@@ -34,6 +34,50 @@ acknowledgements: ""
 
 <br />
 
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
+    </p>
+    <p>
+          <ul>
+            <li>Machine learning methods for understanding language evolution</li>
+            <li>Emergent communication with reinforcement learning</li>
+            <li>Agent-based modeling for language evolution</li>
+          </ul>
+      </p>
+      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
+  </div>
+</div>
+
+<hr />
+
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+    <p><i>Submission details will appear here soon.</i></p>
+            <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
+    <ul>
+      <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
+      <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
+    </ul>
+    <!-- <p>In case of any issues, feel free to email the workshop organizers at: <a href="mailto:ml4evolangworkshop@lpag.de">ml4evolangworkshop@lpag.de</a>.</p> -->
+    </div>
+</div>
+
+<hr />
+
 <!-- Speakers -->
 <div class="row" id="speakers">
   <div class="col-xs-12">
@@ -273,49 +317,6 @@ acknowledgements: ""
 </div>
 <hr />
 
-<!-- CfP -->
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
-    </p>
-    <p>
-          <ul>
-            <li>Machine learning methods for understanding language evolution</li>
-            <li>Emergent communication with reinforcement learning</li>
-            <li>Agent-based modeling for language evolution</li>
-          </ul>
-      </p>
-      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
-  </div>
-</div>
-
-<hr />
-
-<!-- Submission -->
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-    <p><i>Submission details will appear here soon.</i></p>
-            <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
-    <ul>
-      <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
-      <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
-    </ul>
-    <!-- <p>In case of any issues, feel free to email the workshop organizers at: <a href="mailto:ml4evolangworkshop@lpag.de">ml4evolangworkshop@lpag.de</a>.</p> -->
-    </div>
-</div>
-
-<hr />
 
 <!-- Organizers -->
 <div class="row" id="organizers">
