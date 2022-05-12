@@ -24,14 +24,14 @@ acknowledgements: ""
 
 <div class="row">
     <div class="col-xs-12">
-        <p>The goal of this workshop is to build a bridge between the language evolution community and the machine learning community. In the past three decades, numerous studies have attempted to mimic the evolution of language with human participants and agent-based computational models. Meanwhile, in the last decade,  the machine learning community has similarly made strides in simulating emergent communication with deep and reinforcement learning methods.</p>
-        <p>Although both areas of research have similar interests and work on similar questions, there has been little crosstalk between them so far.
-        This is unfortunate, since the progress in machine learning and other areas of AI may allow language evolution researchers to model phenomena that they could not model before.
-        At the same time, theoretical and experimental knowledge of language evolution coming from the linguistics community may help focus models of emergent communication used by the machine learning community.</p>
-        <p>The goal of this workshop is to relate these two areas by bringing together researchers from both backgrounds, establishing common ground, bootstrapping a mutual dialogue between them, and discussing the potential pitfalls of incorporating machine learning methods in the study of language evolution.</p>
+        <p>The goal of this workshop is to build a bridge between the language evolution community and the machine learning community. In the past three decades, numerous studies have attempted to mimic the evolution of language with human participants and agent-based computational models. Meanwhile, in the last decade, the machine learning community has similarly made exciting strides in simulating emergent communication with deep and reinforcement learning methods.</p>
+        <p>Although both areas of research have similar interests and work on similar questions, there has been little crosstalk between them so far. This is unfortunate, since the progress in machine learning and other areas of AI may allow language evolution researchers to model phenomena that they could not model before. At the same time, theoretical and experimental knowledge of language evolution coming from the linguistics community may help focus models of emergent communication used by the machine learning community.</p>
+        <p>The goal of this workshop is therefore to relate these two areas by bringing together researchers from both backgrounds, establishing common ground, bootstrapping a mutual dialogue between them, and discussing the potential pitfalls of incorporating machine learning methods in the study of language evolution.</p>
     </div>
 </div>
 <br />
+
+<hr />
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -77,9 +77,7 @@ acknowledgements: ""
     </div>
   </div>
 </div>
-
 <hr />
-
 
 <!-- CfP -->
 <div class="row" id="cfp">
