@@ -80,6 +80,32 @@ acknowledgements: ""
 
 <hr />
 
+
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<br/>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
+    </p>
+    <p>
+          <ul>
+            <li>Machine learning methods for understanding language evolution</li>
+            <li>Emergent communication with reinforcement learning</li>
+            <li>Agent-based modeling for language evolution</li>
+          </ul>
+      </p>
+      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
+  </div>
+</div>
+
+<hr />
+
 <div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
@@ -110,31 +136,6 @@ acknowledgements: ""
     </table>
   </div>
 </div>
-<hr />
-
-<!-- CfP -->
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<br/>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
-    </p>
-    <p>
-          <ul>
-            <li>Machine learning methods for understanding language evolution</li>
-            <li>Emergent communication with reinforcement learning</li>
-            <li>Agent-based modeling for language evolution</li>
-          </ul>
-      </p>
-      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
-  </div>
-</div>
-
 <hr />
 
 <!-- Submission -->
