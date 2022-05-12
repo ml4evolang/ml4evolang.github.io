@@ -282,7 +282,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We welcome submissions of abstracts of **up to 300 words** on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
+    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
     </p>
     <p>
           <ul>
@@ -291,7 +291,7 @@ acknowledgements: ""
             <li>Agent-based modeling for language evolution</li>
           </ul>
       </p>
-      <p><b>Deadline for submission is June 25, 2022.</b> Accepted submissions will be presented as a poster in the workshop.</p>
+      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
   </div>
 </div>
 
