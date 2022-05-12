@@ -118,6 +118,7 @@ acknowledgements: ""
     <h2>Call for Papers</h2>
   </div>
 </div>
+<br/>
 <div class="row">
   <div class="col-xs-12">
     <p>
