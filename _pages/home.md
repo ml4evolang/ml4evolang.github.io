@@ -138,37 +138,37 @@ acknowledgements: ""
 
 <hr />
 
-<!-- <div class="row" id="dates"> -->
-<!--   <div class="col-xs-12"> -->
-<!--     <h2>Important Dates</h2> -->
-<!--   </div> -->
-<!-- </div> -->
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
 
-<!-- <br> -->
-<!-- <div class="row"> -->
-<!--   <div class="col-xs-12"> -->
-<!--     <table class="table table-striped"> -->
-<!--       <tbody> -->
-<!--         <tr> -->
-<!--           <td>Paper Submission Deadline</td> -->
-<!--           <td>to be announced</td> -->
-<!--         </tr> -->
-<!--         <tr> -->
-<!--           <td>Decision Notifications</td> -->
-<!--           <td>to be announced</td> -->
-<!--         </tr> -->
-<!--         <tr> -->
-<!--           <td>Camera Ready Paper Deadline</td> -->
-<!--           <td>May 15, 2021 (11:59 PM Pacific time)</td> -->
-<!--         </tr> -->
-<!--         <tr> -->
-<!--           <td>Workshop</td> -->
-<!--           <td>Between 5th and 8th of September, 2022</td> -->
-<!--         </tr> -->
-<!--       </tbody> -->
-<!--     </table> -->
-<!--   </div> -->
-<!-- </div> -->
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Abstract submission deadline</td>
+          <td>June 25, 2022 (AoE)</td>
+        </tr>
+        <tr>
+          <td>Decision notifications</td>
+          <td>July 25, 2022</td>
+        </tr>
+        <tr>
+          <td>Deadline for final poster submissions</td>
+          <td>August 25, 2021 (AoE)</td>
+        </tr>
+        <tr>
+          <td>Workshop</td>
+          <td>t.b.a (between 5th and 8th of September, 2022)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -425,16 +425,16 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit an abstract of up to 300 words on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop:
+      We welcome submissions of abstracts of **up to 300 words** on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
     </p>
     <p>
           <ul>
             <li>Machine learning methods for understanding language evolution</li>
             <li>Emergent communication with reinforcement learning</li>
-            <li>Bayesian agent-based modeling for language evolution</li>
+            <li>Agent-based modeling for language evolution</li>
           </ul>
       </p>
-      <p>Accepted submissions will be presented as a poster in the workshop.</p>
+      <p><b>Deadline for submission is June 25, 2022.</b> Accepted submissions will be presented as a poster in the workshop.</p>
   </div>
 </div>
 
