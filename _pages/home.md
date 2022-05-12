@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
-    <center><h2>Sept, 2022. JCoLE Workshop, Kanazawa, Japan and Online.</h2></center>
+    <center><h2>September 5th, 2022. JCoLE Workshop, Kanazawa, Japan and Online.</h2></center>
     <!-- TODO: add exact date here -->
     <center>Co-located with <a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">JCoLE, September 5th - 8th, 2022</a></center>
     <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
@@ -128,7 +128,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>t.b.a (between 5th and 8th of September, 2022)</td>
+          <td>September 5, 2022</td>
         </tr>
       </tbody>
     </table>
