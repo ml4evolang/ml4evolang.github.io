@@ -31,52 +31,7 @@ acknowledgements: ""
         <p>The goal of this workshop is to relate these two areas by bringing together researchers from both backgrounds, establishing common ground, bootstrapping a mutual dialogue between them, and discussing the potential pitfalls of incorporating machine learning methods in the study of language evolution.</p>
     </div>
 </div>
-
 <br />
-
-<!-- CfP -->
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
-    </p>
-    <p>
-          <ul>
-            <li>Machine learning methods for understanding language evolution</li>
-            <li>Emergent communication with reinforcement learning</li>
-            <li>Agent-based modeling for language evolution</li>
-          </ul>
-      </p>
-      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
-  </div>
-</div>
-
-<hr />
-
-<!-- Submission -->
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-    <p><i>Submission details will appear here soon.</i></p>
-            <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
-    <ul>
-      <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
-      <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
-    </ul>
-    <!-- <p>In case of any issues, feel free to email the workshop organizers at: <a href="mailto:ml4evolangworkshop@lpag.de">ml4evolangworkshop@lpag.de</a>.</p> -->
-    </div>
-</div>
-
-<hr />
 
 <!-- Speakers -->
 <div class="row" id="speakers">
@@ -123,7 +78,84 @@ acknowledgements: ""
   </div>
 </div>
 
+<hr />
+
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
 <br />
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Abstract submission deadline</td>
+          <td>June 25, 2022 (AoE)</td>
+        </tr>
+        <tr>
+          <td>Decision notifications</td>
+          <td>July 25, 2022</td>
+        </tr>
+        <tr>
+          <td>Deadline for final poster submissions</td>
+          <td>August 25, 2021 (AoE)</td>
+        </tr>
+        <tr>
+          <td>Workshop</td>
+          <td>t.b.a (between 5th and 8th of September, 2022)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<hr />
+
+<!-- CfP -->
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+    We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
+    </p>
+    <p>
+          <ul>
+            <li>Machine learning methods for understanding language evolution</li>
+            <li>Emergent communication with reinforcement learning</li>
+            <li>Agent-based modeling for language evolution</li>
+          </ul>
+      </p>
+      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
+  </div>
+</div>
+
+<hr />
+
+<!-- Submission -->
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Submission Guidelines</h2>
+  </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+    <p><i>Submission details will appear here soon.</i></p>
+            <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
+    <ul>
+      <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
+      <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
+    </ul>
+    <!-- <p>In case of any issues, feel free to email the workshop organizers at: <a href="mailto:ml4evolangworkshop@lpag.de">ml4evolangworkshop@lpag.de</a>.</p> -->
+    </div>
+</div>
+
+<hr />
+
 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
@@ -177,146 +209,8 @@ acknowledgements: ""
 <!-- </ul> -->
 
 
-<!-- Scientific Committee -->
-<!-- <div class="row" id="scientific_committee"> -->
-<!--   <div class="col-xs-12"> -->
-<!--     <h2>Scientific Committee</h2> -->
-<!--   </div> -->
-<!-- </div> -->
-<!-- <div class="row"> -->
-<!--   <div class="col-xs-6 col-lg-3"> -->
-<!--     <a href="https://mila.quebec/en/person/aaron-courville/"> -->
-<!--       <img class="people-pic" src="{{ "/static/img/people/aaron-courville-dp.jpg" | prepend:site.baseurl }}"> -->
-<!--     </a> -->
-<!--     <div class="people-name"> -->
-<!--       <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a> -->
-<!--       <h6>University of Montreal</h6> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="col-xs-6 col-lg-3"> -->
-<!--     <a href="http://www.mateuszmalinowski.com/"> -->
-<!--       <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}"> -->
-<!--     </a> -->
-<!--     <div class="people-name"> -->
-<!--       <a href="http://www.mateuszmalinowski.com/">Mateusz Malinowski</a> -->
-<!--       <h6>DeepMind</h6> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="col-xs-6 col-lg-3"> -->
-<!--     <a href="http://www.lifl.fr/~pietquin/"> -->
-<!--       <img class="people-pic" src="{{ "/static/img/people/olivier-pietquin-dp.jpg" | prepend:site.baseurl }}"> -->
-<!--     </a> -->
-<!--     <div class="people-name"> -->
-<!--       <a href="http://www.lifl.fr/~pietquin/">Olivier Pietquin</a> -->
-<!--       <h6>Google Brain</h6> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="col-xs-6 col-lg-3"> -->
-<!--     <a href="http://www-etud.iro.umontreal.ca/~devries/"> -->
-<!--       <img class="people-pic" src="/static/img/people/harmdevries.jpg" /> -->
-<!--     </a> -->
-<!--     <div class="people-name"> -->
-<!--       <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a> -->
-<!--       <h6>University of Montreal | Element AI</h6> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </div> -->
 
 <!-- <hr /> -->
-
-<!-- <div class="row"> -->
-<!--   <div class="col-xs-12"> -->
-<!--     <h2>Program Committee</h2> -->
-<!--   </div> -->
-<!-- </div> -->
-<!-- <div class="row"> -->
-<!--   <div class="col-xs-6"> -->
-<!--     <ul> -->
-<!--       <li>Abhishek Das (Facebook AI Research)</li> -->
-<!--       <li>Adria Recasens (DeepMind)</li> -->
-<!--       <li>Alane Suhr (Cornell)</li> -->
-<!--       <li>Anna Potapenko (DeepMind)</li> -->
-<!--       <li>Arjun Majumdar (Georgia Tech)</li> -->
-<!--       <li>Cătălina Cangea (University of Cambridge)</li> -->
-<!--       <li>Catherine Wong (Massachusetts Institute of Technology)</li> -->
-<!--       <li>Christopher Davis (University of Cambridge)</li> -->
-<!--       <li>Daniel Fried (UC Berkeley)</li> -->
-<!--       <li>Drew Hudson (Stanford University)</li> -->
-<!--       <li>Erik Wijmans (Georgia Tech)</li> -->
-<!--       <li>Florian Strub (DeepMind)</li> -->
-<!--       <li>Gabriel Ilharco (University of Washington)</li> -->
-<!--       <li>Geoffrey Cideron (InstaDeep)</li> -->
-<!--       <li>Hammad Ayyubi (Columbia University)</li> -->
-<!--       <li>Hao Tan (University of North Carolina Chapel Hill)</li> -->
-<!--       <li>Hao Wu (Fudan University)</li> -->
-<!--       <li>Haoyue Shi (Toyota Technological Institute at Chicago)</li> -->
-<!--       <li>Hedi Ben-younes (Sorbonne université)</li> -->
-<!--       <li>Jack Hessel (Allen Institute for AI)</li> -->
-<!--       <li>Jacob Krantz (Oregon State University)</li> -->
-<!--       <li>Jean-Baptiste Alayrac (DeepMind)</li> -->
-<!--     </ul> -->
-<!--   </div> -->
-<!--   <div class="col-xs-6"> -->
-<!--     <ul> -->
-<!--       <li>Jiayuan Mao (MIT)</li> -->
-<!--       <li>Joel Ye (Georgia Tech)</li> -->
-<!--       <li>Johan Ferret (Google Research, Brain Team)</li> -->
-<!--       <li>Karan Desai (University of Michigan)</li> -->
-<!--       <li>Lisa Anne Hendricks (DeepMind)</li> -->
-<!--       <li>Luca Celotti (Université de Sherbrooke)</li> -->
-<!--       <li>Mateusz Malinowski (DeepMind)</li> -->
-<!--       <li>Mathieu Rita (École polytechnique)</li> -->
-<!--       <li>Mathieu Seurin (University of Lille)</li> -->
-<!--       <li>Meera Hahn (Georgia Institute of Technology)</li> -->
-<!--       <li>Nicholas Tomlin (UC Berkeley)</li> -->
-<!--       <li>Olivier Pietquin (2)</li> -->
-<!--       <li>Peter Anderson (Google)</li> -->
-<!--       <li>Rodolfo Corona (UC Berkeley)</li> -->
-<!--       <li>Rowan Zellers (University of Washington)</li> -->
-<!--       <li>Ryan Benmalek (Cornell University)</li> -->
-<!--       <li>Sanjay Subramanian (Allen Institute for Artificial Intelligence)</li> -->
-<!--       <li>Sidd Karamcheti (Stanford University)</li> -->
-<!--       <li>Stefan Lee (Oregon State University)</li> -->
-<!--       <li>Valts Blukis (Cornell University)</li> -->
-<!--       <li>Volkan Cirik (Carnegie Mellon University)</li> -->
-<!--     </ul> -->
-<!--   </div> -->
-<!-- </div> -->
-
-<hr />
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Abstract submission deadline</td>
-          <td>June 25, 2022 (AoE)</td>
-        </tr>
-        <tr>
-          <td>Decision notifications</td>
-          <td>July 25, 2022</td>
-        </tr>
-        <tr>
-          <td>Deadline for final poster submissions</td>
-          <td>August 25, 2021 (AoE)</td>
-        </tr>
-        <tr>
-          <td>Workshop</td>
-          <td>t.b.a (between 5th and 8th of September, 2022)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-<hr />
-
 
 <!-- Organizers -->
 <div class="row" id="organizers">
