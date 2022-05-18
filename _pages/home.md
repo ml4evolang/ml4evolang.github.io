@@ -9,7 +9,14 @@ paper: true
 acknowledgements: ""
 ---
 
+<div class="row">
+  <center>
+    <img src="{{ "/static/img/ml4evolang-logo-captioned.png" | prepend:site.baseurl }}">
+  </center>
+</div>
+
 <br />
+
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
@@ -144,9 +151,12 @@ acknowledgements: ""
 </div>
 <div class="row">
     <div class="col-xs-12">
-    <p><i>Submission details will appear here soon.</i></p>
             <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
     <ul>
+      <li><a href="https://openreview.net/group?id=JCoLE/2022/Workshop/ml4evolang">Link to submission portal</a></li>
+      <li> The submission format is an abstract of no more than 300 words</li>
+      <li> For the initial submission, it is sufficient to enter your abstract into the respective field of the submission form. There is no need to attach a separate PDF.</li>
+      <li> After the acceptance notificiation, you can upload the final poster as PDF.</li>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
       <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
     </ul>
