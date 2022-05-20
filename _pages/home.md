@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Machine Learning and the Evolution of Language (ML4EvoLang)"
-title: "Machine Learning and the Evolution of Language (ML4EvoLang)"
+urltitle:  "Machine Learning and the Evolution of Language (ml4evolang)"
+title: "Machine Learning and the Evolution of Language (ml4evolang)"
 categories: workshop, emergent communication, language evolution, natural language, machine learning, computational modeling, ml4evolang, evolang, jcole, 2022
 permalink: /
 bibtex: true
@@ -293,6 +293,7 @@ acknowledgements: ""
     </div>
   </div>
 </div>
+
 
 
 <!-- vim: set ft=html -->
