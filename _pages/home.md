@@ -174,18 +174,22 @@ acknowledgements: ""
   <!-- </div> -->
 </div>
 <div class="row">
-<p><strong>The displayed times are local time in Kanazawa, Japan.</strong></p>
+  <div class="col-xs-12">
+    <p><strong>All displayed times refer to local time in Kanazawa, Japan.</strong></p>
+  </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
+      <tr> <th scope="row" no-data-time="10:00">From 10:00 to 12:00 </th> <td><b>Morning session</b></td></tr>
     <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
     <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
     <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
     <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
     <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Poster session</td></tr>
     <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr>
+    <tr> <th scope="row" no-data-time="13:30">From 13:30 to 15:30 </th> <td><b>Afternoon session</b></td></tr>
     <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
     <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
     <tr> <th scope="row" no-data-time="14:20">14:20</th> <td>Lessons from the past (Bart de Boer)</td></tr>
