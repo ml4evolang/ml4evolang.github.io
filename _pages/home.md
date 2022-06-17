@@ -21,9 +21,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
     <center><h2>September 5th, 2022. JCoLE Workshop, Kanazawa, Japan and Online.</h2></center>
-    <!-- TODO: add exact date here -->
     <center>Co-located with <a href="https://sites.google.com/view/joint-conf-language-evolution/home" target="_blank">JCoLE, September 5th - 8th, 2022</a></center>
-    <!--center>Ask the panelists! Submit your questions at <a href="https://app.sli.do/event/zf5ggt9a/live/questions" target="_blank">sli.do</a>.</center-->
   </div>
 </div>
 
@@ -171,29 +169,29 @@ acknowledgements: ""
   <div class="col-md-4 col-xs-12">
     <h2>Preliminary Schedule</h2>
   </div>
-  <div class="col-md-8 col-xs-12">
-      <select id="timezone-select" class="form-control"></select>
-  </div>
+  <!-- <div class="col-md-8 col-xs-12"> -->
+  <!--     <select id="timezone-select" class="form-control"></select> -->
+  <!-- </div> -->
 </div>
 <div class="row">
-<p><strong>The displayed times are placeholders, final times are to be announced.</strong></p>
+<p><strong>The displayed times are local time in Kanazawa, Japan.</strong></p>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row" data-time="00:00">t.b.d. </th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
-    <tr> <th scope="row" data-time="00:10">t.b.d. + 10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
-    <tr> <th scope="row" data-time="00:40">t.b.d. + 40</th> <td>Invited Talk 1: Matt Spike</td></tr>
-    <tr> <th scope="row" data-time="01:00">t.b.d. + 60</th> <td>Invited Talk 2: Katie Mudd</td></tr>
-    <tr> <th scope="row" data-time="01:20">t.b.d. + 80</th> <td>Poster session</td></tr>
-    <tr> <th scope="row" data-time="01:40">t.b.d. + 100</th> <td>Break</td></tr>
-    <tr> <th scope="row" data-time="02:00">t.b.d. + 120</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
-    <tr> <th scope="row" data-time="02:25">t.b.d. + 145</th> <td>Invited Talk 4: Douwe Kiela</td></tr>
-    <tr> <th scope="row" data-time="02:50">t.b.d. + 170</th> <td>Lessons from the past (Bart de Boer)</td></tr>
-    <tr> <th scope="row" data-time="03:05">t.b.d. + 185</th> <td>Identifying some gaps (Lukas Galke)</td></tr>
-    <tr> <th scope="row" data-time="03:20">t.b.d. + 200</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
-    <tr> <th scope="row" data-time="03:55">t.b.d. + 215</th> <td>Final remarks (Mathieu Rita)</td></tr>
+    <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
+    <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
+    <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
+    <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
+    <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Poster session</td></tr>
+    <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr>
+    <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
+    <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
+    <tr> <th scope="row" no-data-time="14:20">14:20</th> <td>Lessons from the past (Bart de Boer)</td></tr>
+    <tr> <th scope="row" no-data-time="14:35">14:35</th> <td>Identifying some gaps (Lukas Galke)</td></tr>
+    <tr> <th scope="row" no-data-time="14:50">14:50</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
+    <tr> <th scope="row" no-data-time="15:25">15:25</th> <td>Final remarks (Mathieu Rita)</td></tr>
     </tbody>
     </table>
   </div>
