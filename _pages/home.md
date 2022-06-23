@@ -153,6 +153,8 @@ acknowledgements: ""
     <ul>
       <li><a href="https://openreview.net/group?id=JCoLE/2022/Workshop/ml4evolang">Link to submission portal</a></li>
       <li> The submission format is an abstract of no more than 300 words</li>
+      <li> It is not necessary to provide a reference list at the end. A simple 300 word abstract would suffice.
+        If you'd like to include citations in the abstract, you could just use the APA format for in-text referencing.</li> 
       <li> For the initial submission, it is sufficient to enter your abstract into the respective field of the submission form. There is no need to attach a separate PDF.</li>
       <li> After the acceptance notificiation, you can upload the final poster as PDF.</li>
       <!-- <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including NAACL 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li> -->
