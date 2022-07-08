@@ -25,24 +25,37 @@ acknowledgements: ""
   </div>
 </div>
 
+<br />
+
 
 <div class="row">
   <div class="col-xs-12">
-    ## News (Last updated: July 8, 2022)
-    - We seek to finish the review process one week earlier (July 18) so that participants have enough time to organize VISA, flights, and accommodation.
-    - Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. [Link to schedule of JCoLE](https://sites.google.com/view/joint-conf-language-evolution/schedule)
-    - During our workshop, poster presenters will present their work in a flash-talk format.
+    <h2>News (Last updated: July 8, 2022)</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <ul>
+      <li>We seek to finish the review process one week earlier (July 18) so that participants have enough time to organize VISA, flights, and accommodation.</li>
+      <li>Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. <a href="https://sites.google.com/view/joint-conf-language-evolution/schedule">Link to JCoLE schedule</a></li>
+      <li> During our workshop, poster presenters will be able to present their work in a flash-talk format.</li>
+    </ul>
   </div>
 </div>
 
 <br />
 
 <div class="row">
-    <div class="col-xs-12">
-        <p>The goal of this workshop is to build a bridge between the language evolution community and the machine learning community. In the past three decades, numerous studies have attempted to mimic the evolution of language with human participants and agent-based computational models. Meanwhile, in the last decade, the machine learning community has similarly made exciting strides in simulating emergent communication with deep and reinforcement learning methods.</p>
-        <p>Although both areas of research have similar interests and work on similar questions, there has been little crosstalk between them so far. This is unfortunate, since the progress in machine learning and other areas of AI may allow language evolution researchers to model phenomena that they could not model before. At the same time, theoretical and experimental knowledge of language evolution coming from the linguistics community may help focus models of emergent communication used by the machine learning community.</p>
-        <p>The goal of this workshop is therefore to relate these two areas by bringing together researchers from both backgrounds, establishing common ground, bootstrapping a mutual dialogue between them, and discussing the potential pitfalls of incorporating machine learning methods in the study of language evolution.</p>
-    </div>
+  <div class="col-xs-12">
+    <h2>Workshop description</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>The goal of this workshop is to build a bridge between the language evolution community and the machine learning community. In the past three decades, numerous studies have attempted to mimic the evolution of language with human participants and agent-based computational models. Meanwhile, in the last decade, the machine learning community has similarly made exciting strides in simulating emergent communication with deep and reinforcement learning methods.</p>
+    <p>Although both areas of research have similar interests and work on similar questions, there has been little crosstalk between them so far. This is unfortunate, since the progress in machine learning and other areas of AI may allow language evolution researchers to model phenomena that they could not model before. At the same time, theoretical and experimental knowledge of language evolution coming from the linguistics community may help focus models of emergent communication used by the machine learning community.</p>
+    <p>The goal of this workshop is therefore to relate these two areas by bringing together researchers from both backgrounds, establishing common ground, bootstrapping a mutual dialogue between them, and discussing the potential pitfalls of incorporating machine learning methods in the study of language evolution.</p>
+  </div>
 </div>
 <br />
 
@@ -107,13 +120,13 @@ acknowledgements: ""
     We welcome submissions of abstracts of <strong>up to 300 words</strong> on the basis of new, in-progress, or already published work whose content is relevant to the topics of the workshop, including but not limited to:
     </p>
     <p>
-          <ul>
-            <li>Machine learning methods for understanding language evolution</li>
-            <li>Emergent communication with reinforcement learning</li>
-            <li>Agent-based modeling for language evolution</li>
-          </ul>
-      </p>
-      <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
+    <ul>
+      <li>Machine learning methods for understanding language evolution</li>
+      <li>Emergent communication with reinforcement learning</li>
+      <li>Agent-based modeling for language evolution</li>
+    </ul>
+    </p>
+    <p><strong>Deadline for submission is June 25, 2022.</strong> Accepted submissions will be presented as a poster in the workshop.</p>
   </div>
 </div>
 
@@ -158,8 +171,8 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-    <div class="col-xs-12">
-            <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
+  <div class="col-xs-12">
+    <!-- Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>. -->
     <ul>
       <li><a href="https://openreview.net/group?id=JCoLE/2022/Workshop/ml4evolang">Link to submission portal</a></li>
       <li> The submission format is an abstract of no more than 300 words</li>
@@ -171,7 +184,7 @@ acknowledgements: ""
       <!-- <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li> -->
     </ul>
     <p>In case of any further questions, feel free to email the workshop organizers at: <a href="mailto:ml4evolang@mpi.nl">ml4evolang@mpi.nl</a>.</p>
-    </div>
+  </div>
 </div>
 
 <hr />
@@ -193,22 +206,22 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
-    <tbody>
-      <tr> <th scope="row" no-data-time="10:00">From 10:00 to 12:00 </th> <td><b>Morning session</b></td></tr>
-    <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
-    <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
-    <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
-    <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
-    <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Poster session</td></tr>
-    <!-- <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr> -->
-    <tr> <th scope="row" no-data-time="13:30">From 13:30 to 15:30 </th> <td><b>Afternoon session</b></td></tr>
-    <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
-    <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
-    <tr> <th scope="row" no-data-time="14:20">14:20</th> <td>Lessons from the past (Bart de Boer)</td></tr>
-    <tr> <th scope="row" no-data-time="14:35">14:35</th> <td>Identifying some gaps (Lukas Galke)</td></tr>
-    <tr> <th scope="row" no-data-time="14:50">14:50</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
-    <tr> <th scope="row" no-data-time="15:25">15:25</th> <td>Final remarks (Mathieu Rita)</td></tr>
-    </tbody>
+      <tbody>
+        <tr> <th scope="row" no-data-time="10:00">From 10:00 to 12:00 </th> <td><b>Morning session</b></td></tr>
+        <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
+        <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
+        <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
+        <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
+        <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Poster session</td></tr>
+        <!-- <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr> -->
+        <tr> <th scope="row" no-data-time="13:30">From 13:30 to 15:30 </th> <td><b>Afternoon session</b></td></tr>
+        <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
+        <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
+        <tr> <th scope="row" no-data-time="14:20">14:20</th> <td>Lessons from the past (Bart de Boer)</td></tr>
+        <tr> <th scope="row" no-data-time="14:35">14:35</th> <td>Identifying some gaps (Lukas Galke)</td></tr>
+        <tr> <th scope="row" no-data-time="14:50">14:50</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
+        <tr> <th scope="row" no-data-time="15:25">15:25</th> <td>Final remarks (Mathieu Rita)</td></tr>
+      </tbody>
     </table>
   </div>
 </div>
