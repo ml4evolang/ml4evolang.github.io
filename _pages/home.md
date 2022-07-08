@@ -25,6 +25,16 @@ acknowledgements: ""
   </div>
 </div>
 
+
+<div class="row">
+  <div class="col-xs-12">
+    ## News (Last updated: July 8, 2022)
+    - We seek to finish the review process one week earlier (July 18) so that participants have enough time to organize VISA, flights, and accommodation.
+    - Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. [Link to schedule of JCoLE](https://sites.google.com/view/joint-conf-language-evolution/schedule)
+    - During our workshop, poster presenters will present their work in a flash-talk format.
+  </div>
+</div>
+
 <br />
 
 <div class="row">
@@ -190,7 +200,7 @@ acknowledgements: ""
     <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
     <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
     <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Poster session</td></tr>
-    <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr>
+    <!-- <tr> <th scope="row" no-data-time="11:40">11:40</th> <td>Break</td></tr> -->
     <tr> <th scope="row" no-data-time="13:30">From 13:30 to 15:30 </th> <td><b>Afternoon session</b></td></tr>
     <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
     <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
