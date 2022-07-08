@@ -36,7 +36,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>We seek to finish the review process one week earlier (July 18) so that participants, who want to participate in-person, have enough time to organize VISA, flights, and accommodation.</li>
+      <li>We seek to finish the review process one week earlier (July 18) so that (in-person) participants have enough time to organize VISA, flights, and accommodation.</li>
       <li>Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. <a href="https://sites.google.com/view/joint-conf-language-evolution/schedule">Link to JCoLE schedule</a></li>
       <li> During our workshop, poster presenters will be able to present their work in a flash-talk format.</li>
     </ul>
