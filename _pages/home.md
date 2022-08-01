@@ -30,7 +30,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>News (Last updated: July 8, 2022)</h2>
+    <h2>News (Last updated: August 1, 2022)</h2>
   </div>
 </div>
 <div class="row">
