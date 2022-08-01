@@ -214,11 +214,11 @@ acknowledgements: ""
         <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
         <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
         <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Flask talks</td></tr>
-        <tr> <th scope="row"> </th> <td>Competition exacerbates Language Drift (<a href="https://openreview.net/forum?id=KU4PUtfT_uw">Link to Abstract</a>)</td></tr>
-        <tr> <th scope="row"> </th> <td>Challenges in Simulating the Word Order vs. Case Marking Trade-off with Neural Agents (<a href="https://openreview.net/forum?id=STxLJ_BK5Iu">Link to Abstract</a>) </td></tr>
-        <tr> <th scope="row"> </th> <td>BotTown: A platform for agent-based simulations of naturalistic conversations (<a href="https://openreview.net/forum?id=7HWG5u6tGGt">Link to Abstract</a>) </td></tr>
-        <tr> <th scope="row"> </th> <td>Signalling signalhood in machine learning agents (<a href="https://openreview.net/forum?id=y5LBTbp0lnI">Link to Abstract</a>)</td></tr>
-        <tr> <th scope="row"> </th> <td>Emergent Communication as Decentralized Representation Learning: Metropolis-Hastings Naming Game and Beyond (<a href="https://openreview.net/forum?id=g8p55UNwwP">Link to Abstract</a>)</td></tr>
+        <tr> <th scope="row"> </th> <td>Competition exacerbates Language Drift (Michael Noukhovitch)</td></tr>
+        <tr> <th scope="row"> </th> <td>Challenges in Simulating the Word Order vs. Case Marking Trade-off with Neural Agents  (Yuchen Lian)</td></tr>
+        <tr> <th scope="row"> </th> <td>BotTown: A platform for agent-based simulations of naturalistic conversations (Roberta Rocca)</td></tr>
+        <tr> <th scope="row"> </th> <td>Signalling signalhood in machine learning agents (Thom Scott-Phillips)</td></tr>
+        <tr> <th scope="row"> </th> <td>Emergent Communication as Decentralized Representation Learning: Metropolis-Hastings Naming Game and Beyond (Tadahiro Taniguchi)</td></tr>
         <tr> <th scope="row" no-data-time="13:30">From 13:30 to 15:30 </th> <td><b>Afternoon session</b></td></tr>
         <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
         <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
