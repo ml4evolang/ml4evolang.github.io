@@ -223,7 +223,7 @@ acknowledgements: ""
         <tr> <th scope="row" no-data-time="13:30">13:30</th> <td>Invited Talk 3: Rahma Chaabouni</td></tr>
         <tr> <th scope="row" no-data-time="13:55">13:55</th> <td>Invited Talk 4: Matt Spike</td></tr>
         <tr> <th scope="row" no-data-time="14:20">14:20</th> <td>Lessons from the past (Bart de Boer)</td></tr>
-        <tr> <th scope="row" no-data-time="14:35">14:35</th> <td>Emergent Communication for Understanding Human Language Evolution: What's Missing? (Lukas Galke)</td></tr>
+        <tr> <th scope="row" no-data-time="14:35">14:35</th> <td>Emergent Communication and Language Evolution: What's Missing? (Lukas Galke)</td></tr>
         <tr> <th scope="row" no-data-time="14:50">14:50</th> <td>Panel discussion (Chair: Limor Raviv)</td></tr>
         <tr> <th scope="row" no-data-time="15:25">15:25</th> <td>Final remarks (Mathieu Rita)</td></tr>
       </tbody>
