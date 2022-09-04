@@ -32,7 +32,7 @@ acknowledgements: ""
 	<h2>Program</h2>
   </div>
   <div class="col-xs-12">
-	 <a href="/program/ml4evolang-2022-program.pdf">Download the Workshop program (PDF) here.</a> The program includes the abstracts of invited talks and contributed posters.
+	 <a href="/static/program/ml4evolang-2022-program.pdf">Download the Workshop program (PDF) here.</a> The program includes the abstracts of invited talks and contributed posters.
   </div>
 </div>
 
@@ -46,7 +46,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li><b>The <a href="/program/ml4evolang-2022-program.pdf">workshop program</a> is now available!</b></li>
+      <li><b>The workshop program is now available!</b></li>
       <li>The review phase has concluded and we are happy to announce that we could accept all 17 submissions, five of which will be presented in a flash talk during our workshop (see updated Schedule). All posters of the workshop will be presented in an online poster session of the main conference.</li>
       <li>We seek to finish the review process one week earlier (July 18) so that (in-person) participants have enough time to organize VISA, flights, and accommodation.</li>
       <li>Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. <a href="https://sites.google.com/view/joint-conf-language-evolution/schedule">Link to JCoLE schedule</a></li>
