@@ -204,7 +204,7 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
-    <h2>Preliminary Schedule</h2>
+    <h2>Schedule</h2>
   </div>
   <!-- <div class="col-md-8 col-xs-12"> -->
   <!--     <select id="timezone-select" class="form-control"></select> -->
