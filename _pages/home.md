@@ -17,7 +17,7 @@ acknowledgements: ""
 
 <br />
 
-<div class="row" id="program">
+<div class="row">
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
     <center><h2>September 5th, 2022. JCoLE Workshop, Kanazawa, Japan and Online.</h2></center>
@@ -27,10 +27,12 @@ acknowledgements: ""
 
 <br />
 
-<div class="row">
-<h2>Program</h2>
+<div class="row" id="program">
   <div class="col-xs-12">
-	Here you can find all the abstracts of invited or contributed talks and posters: <a href="/program/ml4evolang-2022-program.pdf">Download Workshop program (PDF)</a>
+	<h2>Program</h2>
+  </div>
+  <div class="col-xs-12">
+	 <a href="/program/ml4evolang-2022-program.pdf">Download the Workshop program (PDF) here.</a> The program includes the abstracts of invited talks and contributed posters.
   </div>
 </div>
 
