@@ -36,6 +36,8 @@ acknowledgements: ""
   </div>
 </div>
 
+<br />
+
 <div class="row">
   <div class="col-xs-12">
     <h2>News (Last updated: Sept 4, 2022)</h2>
