@@ -17,7 +17,7 @@ acknowledgements: ""
 
 <br />
 
-<div class="row">
+<div class="row" id="program">
   <div class="col-xs-12">
     <center><h1>Machine Learning and the Evolution of Language (ml4evolang)</h1></center>
     <center><h2>September 5th, 2022. JCoLE Workshop, Kanazawa, Japan and Online.</h2></center>
@@ -27,6 +27,12 @@ acknowledgements: ""
 
 <br />
 
+<div class="row">
+<h2>Program</h2>
+  <div class="col-xs-12">
+	Here you can find all the abstracts of invited or contributed talks and posters: <a href="/program/ml4evolang-2022-program.pdf">Download Workshop program (PDF)</a>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-xs-12">
@@ -36,7 +42,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>The [workshop program](/program/ml4evolang-2022-program.pdf) is now available!</li>
+      <li><b>The <a href="/program/ml4evolang-2022-program.pdf">workshop program</a> is now available!</b></li>
       <li>The review phase has concluded and we are happy to announce that we could accept all 17 submissions, five of which will be presented in a flash talk during our workshop (see updated Schedule). All posters of the workshop will be presented in an online poster session of the main conference.</li>
       <li>We seek to finish the review process one week earlier (July 18) so that (in-person) participants have enough time to organize VISA, flights, and accommodation.</li>
       <li>Posters will be presented in the online poster sessions of the main conference, planned for the 6th and 7th of September. <a href="https://sites.google.com/view/joint-conf-language-evolution/schedule">Link to JCoLE schedule</a></li>
