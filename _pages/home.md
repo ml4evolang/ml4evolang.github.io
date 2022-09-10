@@ -116,6 +116,15 @@ acknowledgements: ""
       <h6>Huggingface</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://mirunapislar.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/miruna.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://mirunapislar.github.io">Miruna Pislar</a>
+      <h6>DeepMind</h6>
+    </div>
+  </div>
 </div>
 <hr />
 
@@ -222,7 +231,7 @@ acknowledgements: ""
         <tr> <th scope="row" no-data-time="10:00">From 10:00 to 12:00 </th> <td><b>Morning session</b></td></tr>
         <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
         <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
-        <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: <del>Douwe Kiela</del><ins><a href="https://mirunapislar.github.io">Miruna Pislar (DeepMind)</a></ins></td></tr>
+        <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: <del>Douwe Kiela</del><ins>Miruna Pislar</ins></td></tr>
         <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
         <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Flask talks</td></tr>
         <tr> <th scope="row"> </th> <td>Competition exacerbates Language Drift (Michael Noukhovitch)</td></tr>
