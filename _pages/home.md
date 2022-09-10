@@ -222,7 +222,7 @@ acknowledgements: ""
         <tr> <th scope="row" no-data-time="10:00">From 10:00 to 12:00 </th> <td><b>Morning session</b></td></tr>
         <tr> <th scope="row" no-data-time="10:00">10:00</th> <td>Welcome and quick intro (Limor Raviv)</td></tr>
         <tr> <th scope="row" no-data-time="10:10">10:10</th> <td>Intro to machine learning methods (Florian Strub)</td></tr>
-        <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: Douwe Kiela</td></tr>
+        <tr> <th scope="row" no-data-time="10:40">10:40</th> <td>Invited Talk 1: <del>Douwe Kiela</del><ins>Miruna Pislar (DeepMind)</ins></td></tr>
         <tr> <th scope="row" no-data-time="11:00">11:00</th> <td>Invited Talk 2: Katie Mudd</td></tr>
         <tr> <th scope="row" no-data-time="11:20">11:20</th> <td>Flask talks</td></tr>
         <tr> <th scope="row"> </th> <td>Competition exacerbates Language Drift (Michael Noukhovitch)</td></tr>
